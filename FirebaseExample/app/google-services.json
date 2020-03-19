@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313080658471",
+    "firebase_url": "https://fir-example-5603f.firebaseio.com",
+    "project_id": "fir-example-5603f",
+    "storage_bucket": "fir-example-5603f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313080658471:android:40f730db33e79e69bf6c02",
+        "android_client_info": {
+          "package_name": "com.hiepsummer.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313080658471-c9rln5h1us7knli9hbie22776vvo09i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hiepsummer.firebaseexample",
+            "certificate_hash": "4106f9012860a5ee925f93d04cbd93727d83ac85"
+          }
+        },
+        {
+          "client_id": "313080658471-f0mvm7igf5enb1iri1f3f2s5dv08necg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZYYz1i9KDexcbzzzkuDvRPCE0GzrxZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313080658471-f0mvm7igf5enb1iri1f3f2s5dv08necg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
